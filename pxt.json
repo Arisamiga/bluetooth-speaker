@@ -3,7 +3,9 @@
     "description": "",
     "dependencies": {
         "core": "*",
-        "bluetooth": "*"
+        "bluetooth": "*",
+        "devices": "*",
+        "microbit-pxt-timeanddate": "github:bsiever/microbit-pxt-timeanddate#v2.0.10"
     },
     "files": [
         "main.blocks",
