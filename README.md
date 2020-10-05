@@ -1,5 +1,7 @@
 # Bluetooth Speaker Project for school!
 
+## Made with MakeCode
+
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
